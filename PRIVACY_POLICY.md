@@ -43,7 +43,6 @@ Quando você se registra e utiliza nosso aplicativo, podemos coletar as seguinte
 - **Dados de Localização:**
   - Localização precisa (GPS) quando você concede permissão
   - Localização aproximada
-  - Localização em segundo plano (quando permitido)
 
 ### 2.3. Informações de Mídia
 

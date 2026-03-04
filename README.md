@@ -11,7 +11,7 @@ Nosso objetivo é empoderar o cidadão, fornecendo acesso fácil a:
 | Status | Informação |
 | :--- | :--- |
 | **Versão Atual** | 0.0.126 |
-| **Disponível em** | Google Play Store: [LINK AQUI] |
+| **Disponível em** | Google Play Store: https://play.google.com/store/apps/details?id=br.com.candidato360 |
 | **Desenvolvedor** | Wellington |
 
 ## ⚙️ Tecnologias Utilizadas
